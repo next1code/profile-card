@@ -31,7 +31,7 @@ body {
 .container .picture img{
     width: 100%;
     border-radius: 50%;
-    border: 5px solid rgb(215, 215, 215);
+    border: 5px solid rgb(243, 13, 13);
 }
 .container h1 {
   color: rgb(216, 216, 216);
